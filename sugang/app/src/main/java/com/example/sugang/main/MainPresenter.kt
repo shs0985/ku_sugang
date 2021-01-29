@@ -8,4 +8,8 @@ class MainPresenter : MainContract.Presenter{
         this.view = view
 
     }
+
+    override fun initNavigationBar() {
+
+    }
 }

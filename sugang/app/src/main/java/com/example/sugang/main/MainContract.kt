@@ -6,5 +6,6 @@ interface MainContract {
     }
     interface Presenter{
         fun setView(view: View)
+        fun initNavigationBar()
     }
 }

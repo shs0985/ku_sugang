@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_culture"
+        android:icon="@drawable/ic_toys_black_24dp"
+        android:title="교양"/>
+    <item
+        android:id="@+id/menu_major"
+        android:icon="@drawable/ic_mode_edit_black_24dp"
+        android:title="전공"/>
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="검색"/>
+    <item
+        android:id="@+id/menu_bookmark"
+        android:icon="@drawable/ic_star_border_black_24dp"
+        android:title="즐겨찾기"/>
+    <item
+        android:id="@+id/menu_developer"
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="개발자"/>
+</menu>
